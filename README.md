@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Adarsh Jaiswal</h1> 
 <p align="center">I'm a Passionate</p> 
-<p align="center">Python Developer || Problem Solver || DSA Learner || Frontend Engineer</p>
+<p align="center">Python Developer || Problem Solver || DSA Learner </p>
 
 <h3 align="center">Be Aware Be Safe !</h3>
 
@@ -28,7 +28,7 @@ Advanced Data Structures & Algorithms and System Design
 - 🔭 Looking for Job Opportunities
 - ⚡ Fun fact: I enjoy coding and learning new technologies
 - 👨‍💻 Problem Solver & Programmer
-- 💜 Python, C++, DSA, OOPs
+- 💜 Python, java, DSA, OOPs
 - ❤️ Learning DSA & Latest Tech Trends
 - 🏃 LinkedIn - https://www.linkedin.com/in/adarsh-jaiswal-1bbbbb328/
 - ❓ LeetCode - https://leetcode.com/u/adarshjai18/
